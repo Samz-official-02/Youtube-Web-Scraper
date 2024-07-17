@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests-html
+beautifulsoup4
+pandas
+pymongo
+pytube
+selenium
+chromedriver
+webdriver_manager
